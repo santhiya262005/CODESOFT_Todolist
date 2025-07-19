@@ -1,0 +1,20 @@
+To-Do List GUI Application - Python Tkinter
+
+ Project Overview
+This is a Graphical User Interface (GUI) To-Do List application developed using Python Tkinter. It allows users to:
+- Add tasks
+- Mark tasks as completed
+- Delete tasks
+- Persist tasks to a JSON file (`tasks.json`) for data storage between sessions
+
+ Features
+- GUI Interface: User-friendly and easy to navigate
+-Task Completion: Mark tasks as done with a checkbox
+-Task Deletion: Remove tasks from the list
+- Persistent Storage: All tasks are saved in `tasks.json`
+- Minimal & Clean Design
+
+Tech Stack
+- Python 3
+- Tkinter for GUI
+- JSON Module for storing tasks
